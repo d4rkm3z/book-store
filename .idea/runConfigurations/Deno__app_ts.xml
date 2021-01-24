@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Deno: app.ts" type="DenoConfigurationType" nameIsGenerated="true" inputPath="$PROJECT_DIR$/app.ts" programParameters="run --watch -A --config ./tsconfig.json --importmap=./import_map.json --unstable">
+    <method v="2" />
+  </configuration>
+</component>

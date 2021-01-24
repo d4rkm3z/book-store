@@ -1,0 +1,1 @@
+deno run --allow-net --allow-read --config ./tsconfig.app.json --importmap=import_map.json app.ts
